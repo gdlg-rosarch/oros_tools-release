@@ -1,0 +1,10 @@
+ros-kinetic-oros-tools (0.1.1-0xenial) xenial; urgency=high
+
+  * prepare for release
+  * dev.oros.io in defaul.launch
+  * first
+  * Contributors: Gérald Lelong, nmartignoni
+
+ -- Easymov Robotics <dev@easymov.fr>  Thu, 20 Apr 2017 22:00:00 -0000
+
+
