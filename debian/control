@@ -1,0 +1,12 @@
+Source: ros-kinetic-oros-tools
+Section: misc
+Priority: extra
+Maintainer: Easymov Robotics <dev@easymov.fr>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-oros-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-log-server, ros-kinetic-ros-peerjs, ros-kinetic-rosbridge-suite
+Description: Oros Tools is software suite that provide high level functions to the web plateform Oros.
